@@ -1,0 +1,12 @@
+numpy
+torch
+scikit-learn
+matplotlib
+seaborn
+tqdm
+optuna
+norse
+lava-dl
+numba
+pandas
+scipy
